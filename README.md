@@ -43,6 +43,8 @@ Edit that source file so that:
   - prompt the user for a file path
   - if that file exists, echo out the file contents to the screen
   - if that file does not exist, let the user know it does not exist (you will use a try/catch/finally)
+ 
+Try testing your program: you should be able to echo the contents for each txt file using both an **absolute** and **relative** file path.
 
 ## YOUR SKILL DRILLS
 
